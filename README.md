@@ -13,9 +13,9 @@ Three small pages built with plain HTML5 and JavaScript (no libraries).
 | `q3/` | Dynamic Number Generator | `for` loop, `createElement()`, `appendChild()` |
 
 ## Live pages
-- Q1: https://MUHAMMADAKMALARFAN.github.io/LAB4A/q1/
+- Q1: https://MUHAMMADAKMALARFAN.github.io/LAB4A/Q1/
 - Q2: https://muhammadakmalarfan.github.io/LAB4A/q2/
-- Q3: https://muhammadakmalarfan.github.io/LAB4A/q3/
+- Q3: https://muhammadakmalarfan.github.io/LAB4A/Q3/
 
 ## How to run
 Open `index.html` inside each folder (`q1`, `q2`, `q3`) in a desktop browser.
