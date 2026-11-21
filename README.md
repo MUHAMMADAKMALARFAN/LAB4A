@@ -1,4 +1,4 @@
-<img width="695" height="395" alt="image" src="https://github.com/user-attachments/assets/7b569eb3-f8b4-4bf7-bcb2-963d84aa249a" /># BIC21203 Lab 4a - Client-Side Scripting (JavaScript)
+# BIC21203 Lab 4a - Client-Side Scripting (JavaScript)
 
 **Name:** MUHAMMAD AKMAL ARFAN BIN NIZAM
 **Student ID:** CI250141
